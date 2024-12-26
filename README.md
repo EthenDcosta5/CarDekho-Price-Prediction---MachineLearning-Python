@@ -24,6 +24,12 @@ To develop a machine learning model capable of predicting the price of a used ca
 
 6. **Deployment**  
    Deploy the model for real-world usage, enabling sellers and buyers to get accurate price predictions for used cars.
+   
+## Files
+
+- CarDekho-Price-Prediction-Project.ipynb: Jupyter notebook containing the full implementation of the project.
+
+- Cardekho-raw-dataset.csv: Raw dataset used for model training and evaluation.
 
 ## Benefits
 - **For Sellers**: More accurate pricing will help sellers sell their cars faster and for a higher price.
